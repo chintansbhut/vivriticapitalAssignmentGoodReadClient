@@ -1,4 +1,4 @@
-
+This application is Client for GoodReads Api. Only Search Api covered . 
 ## Available Scripts
 
 In the project directory, you can run:
